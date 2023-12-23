@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "notepad",
+  "version": "1.0",
+  "description": "Store, manage, and extract notes per site",
+  "action": {
+    "default_popup": "index.html"
+  }
+}
